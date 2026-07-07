@@ -1,2 +1,3 @@
-<strong> Day 1 <strong>
+<strong> Day 1 <strong> <br/>
+
 1. 
